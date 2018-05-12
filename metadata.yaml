@@ -1,4 +1,8 @@
 _repo: Legends-of-the-Gods-The-Egyptian-Texts-edited-with-Translations_9411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Budge, E. A. Wallis (Ernest Alfred Wallis), Sir
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2338
     wikipedia: http://en.wikipedia.org/wiki/E._A._Wallis_Budge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9411#Legends-of-the-Gods-The-Egyptian-Texts-edited-with-Translations
 gutenberg_bookshelf:
 - Mythology
 - Paganism
